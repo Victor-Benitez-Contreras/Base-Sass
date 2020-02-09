@@ -9,9 +9,11 @@
 @import 'abstracts/functions';
 @import 'abstracts/mixins';
 @import 'abstracts/helpers';
+
 // Base
 @import 'base/reset';
 @import 'base/typography';
+
 // Layout
 @import 'layout/navigation';
 @import 'layout/grid';
@@ -21,7 +23,6 @@
 @import 'layout/forms';
 @import 'layout/sections';
 @import 'layout/mediaqueries';
-
 
 // Components
 @import 'components/buttons';
